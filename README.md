@@ -48,18 +48,21 @@
     <a href="https://github.com/haeji1/OpenSight">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=haeji1&repo=OpenSight&theme=radical" alt="OpenSight" />
     </a>
+    <br>
     <a href="https://github.com/haeji1/scenergy">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=haeji1&repo=scenergy&theme=radical" alt="scenergy" />
     </a>
 </div>
 
-## 💻 DEV's Log 💻
+<h2 align="center">💻 Tech Blog 💻</h2>
 
 <div align="center">
     <a href="https://iilovecode.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Badge"> 
     </a>
+    <br>
 </div>
+
 
 <h3 align="center">📫 Let's Connect 📫</h3>
 
