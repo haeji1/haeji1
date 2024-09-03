@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Haeji's%20GitHub%20👋&fontSize=40" />
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Hyeji's%20GitHub%20👋&fontSize=40" />
+</div
 
 <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 
