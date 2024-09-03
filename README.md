@@ -5,7 +5,7 @@
 <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 
 <p align="center">
-    Hi! I'm <strong>Haeji</strong> 👩‍💻,<br>
+    Hi! I'm <strong>Hyeji</strong> 👩‍💻,<br>
     A developer who wants to improve inconveniences using technology.
 </p>
 
