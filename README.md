@@ -52,6 +52,9 @@
     <a href="https://github.com/haeji1/scenergy">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=haeji1&repo=scenergy&theme=radical" alt="scenergy" />
     </a>
+    <br>
+    <a href="https://github.com/haeji1/ZeroDefects.git">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=haeji1&repo=ZeroDefects&theme=radical" alt="scenergy" />
 </div>
 
 <h2 align="center">💻 Tech Blog 💻</h2>
