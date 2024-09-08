@@ -26,6 +26,13 @@
     <img src="https://img.shields.io/badge/Bokeh-FF2D20?style=flat-square&logo=Bokeh&logoColor=white"/>&nbsp;
 </p>
 
+<h3 align="center">🛠️ Automotive Technologies 🛠️</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/AUTOSAR-0055A0?style=flat-square&logo=AUTOSAR&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Mobilgine-0094FF?style=flat-square&logo=Mobilgine&logoColor=white"/>&nbsp;
+</p>
+
 <h3 align="center">📈 Competitive Programming 📈</h3>
 
 <div align="center">
